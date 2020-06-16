@@ -1,0 +1,14 @@
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\bin\Debug\netstandard2.0\WOKArmyBuilder.deps.json
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\bin\Debug\netstandard2.0\WOKArmyBuilder.dll
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\bin\Debug\netstandard2.0\ref\WOKArmyBuilder.dll
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\bin\Debug\netstandard2.0\WOKArmyBuilder.pdb
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\WOKArmyBuilder.csprojAssemblyReference.cache
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\WOKArmyBuilder.AssemblyInfoInputs.cache
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\WOKArmyBuilder.AssemblyInfo.cs
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\WOKArmyBuilder.csproj.CoreCompileInputs.cache
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\WOKArmyBuilder.dll
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\ref\WOKArmyBuilder.dll
+F:\Projects\CurrentProjs\WrathOfKingsArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\WOKArmyBuilder\obj\Debug\netstandard2.0\WOKArmyBuilder.pdb
