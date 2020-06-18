@@ -2,4 +2,12 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/WOKArmyBuilder/.vs/WOKArmyBuilder/DesignTimeBuild/.dtbcache.v2
+/WOKArmyBuilder/.vs
+/WOKArmyBuilder/WOKArmyBuilder/WOKArmyBuilder.iOS/obj
+/WOKArmyBuilder/WOKArmyBuilder/WOKArmyBuilder.iOS/bin
+/.vs
+/WOKArmyBuilder/.vs/WOKArmyBuilder/v16/.suo
+/WOKArmyBuilder/WOKArmyBuilder/WOKArmyBuilder/bin
+/WOKArmyBuilder/WOKArmyBuilder/WOKArmyBuilder/obj
+/WOKArmyBuilder/WOKArmyBuilder/WOKArmyBuilder.Android/bin
+/WOKArmyBuilder/WOKArmyBuilder/WOKArmyBuilder.Android/obj
