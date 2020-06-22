@@ -1,0 +1,32 @@
+﻿Name, Faction, Trait, Type, Rank, Character, DeploymentZone, Base , Size
+"Iron Eyes", "None", "None", "Specialist", 2, true, "C", 30, 2
+"Ashmen Swordsman", "Nasier", "Ashmen", "Infantry", 1, false, "B", 30, 2
+"Ashmen Hakar", "Nasier", "Ashmen", "Leader", 1, false, "B", 30, 2
+"Alyana Heska", "Nasier", "Ashmen", "Leader", 2, true, "B", 30, 2
+"Pelegarth Bloodmask", "Nasier", "Pelegarth", "Infantry", 1, false, "C", 30, 2
+"Pelegarth Howl", "Nasier", "Pelegarth", "Leader", 1, false, "C", 30, 2
+"Elsis Tagil", "Nasier", "Pelegarth", "Leader", 2, true, "C", 30, 2
+"Fel Hammer", "Nasier", "Fel Warrior", "Infantry", 2, false, "B", 40, 3
+"The Unmasked", "Nasier", "Fel Warrior", "Leader", 1, false, "B", 30, 2
+"Arkan Thesh", "Nasier", "Fel Warrior", "Leader", 2, true, "B", 40, 3
+"Arkazan Longhorn", "Nasier", "None", "Specialist", 1, false, "C", 40, 3
+"Rathor Battle Shaman", "Nasier", "None", "Specialist", 1, false, "B", 40, 3
+"Shadrus Arikim", "Nasier", "None", "Specialist", 2, true, "B", 40, 3
+"Galderath Heshberod", "Nasier", "None", "Specialist", 2, true, "B", 40, 3
+"The Blind Hakar", "Nasier", "None", "Specialist", 2, true, "C", 30, 2
+"Arkazan Grethorn", "Nasier", "None", "Specialist", 2, false, "B", 50, 5
+"Deepman Guardian", "Hadross", "Deepmen", "Infantry", 1, false, "A", 30, 2
+"Deepman Kaxes", "Hadross", "Deepmen", "Leader", 1, false, "A", 40, 3
+"Torvosh the Bannerman", "Hadross", "Deepmen", "Leader", 2, true, "A", 30, 2
+"Sevridan Gutter", "Hadross", "Sevridan", "Infantry", 2, false, "B", 30, 2
+"Sevridan Gutter Friar", "Hadross", "Sevridan", "Leader", 1, false, "B", 40, 2
+"Ooroth Trencher", "Hadross", "Sevridan", "Leader", 2, true, "B", 40, 2
+"Carcharian Frenzy", "Hadross", "Carcharian", "Infantry", 2, false, "B", 30, 3
+"Frenzy Charger", "Hadross", "Carcharian", "Leader", 1, false, "B", 40, 3
+"Gar the Gladiator", "Hadross", "Carcharian", "Leader", 2, true, "B", 40, 3
+"Deep Caller", "Hadross", "None", "Specialist", 1, false, "A", 30, 2
+"Calith Reaver", "Hadross", "None", "Specialist", 1, false, "B", 40, 4
+"Talimoth Ororidrum", "Hadross", "None", "Specialist", 2, true, "A", 30, 2
+"Ephramaki", "Hadross", "None", "Specialist", 2, true, "A", 30, 2
+"Ilva", "Hadross", "None", "Specialist", 2, true, "A", 30, 2
+"Orsund Cavalier", "Hadross", "None", "Specialist", 2, false, "A", 50, 5
