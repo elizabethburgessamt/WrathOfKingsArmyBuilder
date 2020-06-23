@@ -6,11 +6,19 @@
              mc:Ignorable="d"
              x:Class="WOKArmyBuilder.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
+    <StackLayout BackgroundColor="#000000">
+        <!-- Title -->
+        <Label Text="My Armies" HorizontalOptions="Center" VerticalOptions="StartAndExpand" TextColor="White" BackgroundColor="Black" FontSize="Title"/>
+        
+        <!-- Buttons to filter Factions -->
+        
+        <!-- List of User's armies -->
         <Label Text="Hello World!  This is placeholder text." 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        
+        <!-- Create new army button -->
+        <Button Text="+" BackgroundColor="PowderBlue" HorizontalOptions="End" VerticalOptions="End" Padding="0,0,5,5" />
     </StackLayout>
 
 </ContentPage>
