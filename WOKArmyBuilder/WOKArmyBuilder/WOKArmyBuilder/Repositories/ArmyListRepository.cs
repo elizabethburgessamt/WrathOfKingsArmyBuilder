@@ -16,9 +16,11 @@ namespace WOKArmyBuilder.Repositories
         public event EventHandler<ArmyList> OnListUpdated;
         public event EventHandler<ArmyList> OnListDeleted;
 
-        public Task DeleteList(ArmyList list)
+        public async Task DeleteList(ArmyList list)
         {
-            throw new NotImplementedException();
+            await CreateConnection();
+            await connection.DeleteAsync(list);
+            OnListDeleted?.Invoke(this, list);
         }
 
         public async Task<List<ArmyList>> GetArmyLists()
@@ -33,14 +35,18 @@ namespace WOKArmyBuilder.Repositories
             return await connection.Table<Unit>().ToListAsync();
         }
 
-        public Task NewList(ArmyList list)
+        public async Task NewList(ArmyList list)
         {
-            throw new NotImplementedException();
+            await CreateConnection();
+            await connection.InsertAsync(list);
+            OnListAdded?.Invoke(this, list);
         }
 
-        public Task UpdateList(ArmyList list)
+        public async Task UpdateList(ArmyList list)
         {
-            throw new NotImplementedException();
+            await CreateConnection();
+            await connection.UpdateAsync(list);
+            OnListUpdated?.Invoke(this, list);
         }
 
         private async Task CreateConnection()
